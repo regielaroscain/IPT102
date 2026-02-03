@@ -1,0 +1,128 @@
+﻿@page "/"
+@using IPT102LaroscainDomain.Models
+@using IPT102LaroscainRepository.Interfaces
+@inject IEmployeeRepository Repo
+@rendermode InteractiveServer
+
+<PageTitle>Employee CRUD - Laroscain</PageTitle>
+
+<div class="container mt-4">
+    <div class="card shadow-sm mb-4 border-primary">
+        <div class="card-header bg-primary text-white">
+            <h5 class="mb-0">@(empModel.Id == 0 ? "Add New Employee" : "Edit Employee Details")</h5>
+        </div>
+        <div class="card-body">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label class="small fw-bold">Name</label>
+                    <input @bind="empModel.Name" class="form-control" placeholder="Full Name" />
+                </div>
+                <div class="col-md-3">
+                    <label class="small fw-bold">Position</label>
+                    <input @bind="empModel.Position" class="form-control" placeholder="Position" />
+                </div>
+                <div class="col-md-3">
+                    <label class="small fw-bold">Salary</label>
+                    <input @bind="empModel.Salary" type="number" class="form-control" placeholder="0.00" />
+                </div>
+                <div class="col-md-2 d-flex align-items-end">
+                    <button class="btn btn-success w-100 fw-bold" @onclick="Save">
+                        @(empModel.Id == 0 ? "ADD" : "UPDATE")
+                    </button>
+                </div>
+            </div>
+            @if (empModel.Id != 0)
+            {
+                <button class="btn btn-link btn-sm text-danger mt-2" @onclick="Cancel">Cancel Edit</button>
+            }
+        </div>
+    </div>
+
+    <div class="table-responsive shadow">
+        <table class="table table-hover align-middle bg-white">
+            <thead class="table-dark">
+                <tr>
+                    <th>Full Name</th>
+                    <th>Position</th>
+                    <th class="text-end">Salary</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (employees == null)
+                {
+                    <tr><td colspan="4" class="text-center p-5"><div class="spinner-border"></div></td></tr>
+                }
+                else if (!employees.Any())
+                {
+                    <tr><td colspan="4" class="text-center p-4">No records found.</td></tr>
+                }
+                else
+                {
+                    @foreach (var emp in employees)
+                    {
+                        <tr>
+                            <td class="fw-bold">@emp.Name</td>
+                            <td><span class="badge bg-light text-dark border">@emp.Position</span></td>
+                            <td class="text-end">@emp.Salary.ToString("N2")</td>
+                            <td class="text-center">
+                                <button class="btn btn-sm btn-info me-1" @onclick="() => Edit(emp)">Edit</button>
+                                <button class="btn btn-sm btn-danger" @onclick="() => Delete(emp.Id)">Delete</button>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    private List<Employee>? employees;
+    private Employee empModel = new();
+
+    protected override void OnInitialized() => LoadData();
+
+    private void LoadData()
+    {
+        try
+        {
+            employees = Repo.GetAll();
+            StateHasChanged();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private void Save()
+    {
+        if (string.IsNullOrWhiteSpace(empModel.Name)) return;
+
+        if (empModel.Id == 0) Repo.Add(empModel);
+        else Repo.Update(empModel);
+
+        empModel = new();
+        LoadData();
+    }
+
+    private void Edit(Employee e)
+    {
+        empModel = new Employee
+        {
+            Id = e.Id,
+            Name = e.Name,
+            Position = e.Position,
+            Salary = e.Salary
+        };
+    }
+
+    private void Delete(int id)
+    {
+        Repo.Delete(id);
+        LoadData();
+    }
+
+    private void Cancel() => empModel = new();
+}

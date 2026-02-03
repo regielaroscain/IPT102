@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "IPT102LaroscainDomain/1.0.0": {
+        "runtime": {
+          "IPT102LaroscainDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPT102LaroscainDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

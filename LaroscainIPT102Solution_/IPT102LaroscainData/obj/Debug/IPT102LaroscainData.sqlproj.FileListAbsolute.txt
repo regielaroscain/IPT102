@@ -1,0 +1,6 @@
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainData\bin\Debug\IPT102LaroscainData.dacpac
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainData\bin\Debug\IPT102LaroscainData.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainData\bin\Debug\IPT102LaroscainData.pdb
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainData\obj\Debug\IPT102LaroscainData.sqlproj.AssemblyReference.cache
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainData\obj\Debug\IPT102LaroscainData.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainData\obj\Debug\IPT102LaroscainData.pdb

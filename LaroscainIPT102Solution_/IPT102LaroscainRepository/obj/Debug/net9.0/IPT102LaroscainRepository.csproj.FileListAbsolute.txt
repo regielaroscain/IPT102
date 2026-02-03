@@ -1,0 +1,17 @@
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\bin\Debug\net9.0\IPT102LaroscainRepository.deps.json
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\bin\Debug\net9.0\IPT102LaroscainRepository.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\bin\Debug\net9.0\IPT102LaroscainRepository.pdb
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\bin\Debug\net9.0\IPT102LaroscainDomain.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\bin\Debug\net9.0\IPT102LaroscainDomain.pdb
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102LaroscainRepository.csproj.AssemblyReference.cache
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102LaroscainRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102LaroscainRepository.AssemblyInfoInputs.cache
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102LaroscainRepository.AssemblyInfo.cs
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102LaroscainRepository.csproj.CoreCompileInputs.cache
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102La.D5B210C8.Up2Date
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102LaroscainRepository.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\refint\IPT102LaroscainRepository.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\IPT102LaroscainRepository.pdb
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\obj\Debug\net9.0\ref\IPT102LaroscainRepository.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\bin\Debug\net9.0\IPT102LaroscainFramework.dll
+D:\IPT\LaroscainIPT102Solution_\IPT102LaroscainRepository\bin\Debug\net9.0\IPT102LaroscainFramework.pdb
