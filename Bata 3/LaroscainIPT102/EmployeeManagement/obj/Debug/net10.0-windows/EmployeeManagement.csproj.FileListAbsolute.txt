@@ -1,0 +1,343 @@
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.exe
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.deps.json
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.runtimeconfig.json
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.pdb
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.pdb
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.baml
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.baml
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.g.cs
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.g.cs
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\App.g.cs
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement_MarkupCompile.cache
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.g.resources
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfo.cs
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Employee.61744648.Up2Date
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\refint\EmployeeManagement.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.genruntimeconfig.cache
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\ref\EmployeeManagement.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll.config
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.baml
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Diagnostics.EventLog.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.Messages.dll
+D:\Database\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.exe
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll.config
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.deps.json
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.runtimeconfig.json
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Diagnostics.EventLog.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.Messages.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.pdb
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.pdb
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.baml
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.baml
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.baml
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.g.cs
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.g.cs
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\App.g.cs
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement_MarkupCompile.cache
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.g.resources
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfo.cs
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Employee.61744648.Up2Date
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\refint\EmployeeManagement.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.genruntimeconfig.cache
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\ref\EmployeeManagement.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\appsettings.json
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement_MarkupCompile.lref
+D:\Backup\Copy\Beta\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\App.baml
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.baml
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.baml
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.baml
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.g.cs
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.g.cs
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\App.g.cs
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement_MarkupCompile.cache
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement_MarkupCompile.lref
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\refint\EmployeeManagement.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\appsettings.json
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.exe
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll.config
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.deps.json
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.runtimeconfig.json
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Diagnostics.EventLog.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.Messages.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.pdb
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.pdb
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\App.baml
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.g.resources
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfo.cs
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Employee.61744648.Up2Date
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.genruntimeconfig.cache
+D:\Backup\Copy\Beta 2\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\ref\EmployeeManagement.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\appsettings.json
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.exe
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll.config
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.deps.json
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.runtimeconfig.json
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Core.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Azure.Identity.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.ClientModel.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Diagnostics.EventLog.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.IO.Pipelines.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Memory.Data.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Text.Encodings.Web.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\System.Text.Json.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.Messages.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Diagnostics.EventLog.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\runtimes\browser\lib\net10.0\System.Text.Encodings.Web.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Domain.pdb
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\bin\Debug\net10.0-windows\Framework.pdb
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.baml
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.baml
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.baml
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\AddEmployeeView.g.cs
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\HomeView.g.cs
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Views\MainWindow.g.cs
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\App.g.cs
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement_MarkupCompile.cache
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement_MarkupCompile.lref
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\App.baml
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.g.resources
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.AssemblyInfo.cs
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\Employee.61744648.Up2Date
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\refint\EmployeeManagement.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.pdb
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\EmployeeManagement.genruntimeconfig.cache
+D:\Backup\Copy\Bata 3\LaroscainIPT102\EmployeeManagement\obj\Debug\net10.0-windows\ref\EmployeeManagement.dll

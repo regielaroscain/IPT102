@@ -1,0 +1,44 @@
+D:\Database\Beta\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Database\Beta\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.dll
+D:\Database\Beta\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.dll
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Database\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Backup\Copy\Beta\LaroscainIPT102\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Backup\Copy\Beta 2\LaroscainIPT102\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Backup\Copy\Bata 3\LaroscainIPT102\Domain\obj\Debug\net9.0\ref\Domain.dll
